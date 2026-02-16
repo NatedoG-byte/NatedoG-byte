@@ -10,7 +10,7 @@ Currently working on:
 Deeper understanding
 
 
-## Past Projects:
+## PASTPROJECTS:
 # Fitbot
 Developed a user-friendly chatbot that has helped numerous people implement proper programming and workout schedule to fit their needs and busy lives.
 # Supercampusapp
