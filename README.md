@@ -2,9 +2,9 @@
 Hello, I am a student at Blue Mountain Christian University and am an aspiring software engineer. I am a student-athlete and love to see how I can use my coding skills to help me create new things from mere ideas. I am currently focused on gaining real world experience, and learning new technologies.
 
 ## Technologies & Tools
-Languages: Python, HTML, JAVA, CSS, POSTGRESQL
-Tools: Github, Git, React Native, VS Code
-Currently working on: Deeper understanding
++ Languages: Python, HTML, JAVA, CSS, POSTGRESQL
++ Tools: Github, Git, React Native, VS Code
++ Currently working on: Deeper understanding
 
 
 ## Past Projects:
