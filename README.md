@@ -2,18 +2,18 @@
 Hello, I am a student at Blue Mountain Christian University and am an aspiring software engineer. I am a student-athlete and love to see how I can use my coding skills to help me create new things from mere ideas. I am currently focused on gaining real world experience, and learning new technologies.
 
 ## Technologies & Tools
-# Languages:
+Languages:
 Python, HTML, JAVA, CSS, POSTGRESQL
-# Tools: 
+Tools: 
 Github, Git, React Native, VS Code
-# Currently working on:
+Currently working on:
 Deeper understanding
 
 
 ## Past Projects:
-# FITBOT
+# Fitbot
 Developed a user-friendly chatbot that has helped numerous people implement proper programming and workout schedule to fit their needs and busy lives.
-# SUPERCAMPUSAPP
+# Supercampusapp
 Developed a 'SuperCampusApp' allowing students to see events, calendars, and upcoming assignments for their campus.
 
 Connect with me!
